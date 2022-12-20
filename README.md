@@ -8,7 +8,7 @@
 ### Hey, I am Ritesh    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" />
 - I am an upcoming graduate (May 2023) at Toronto Metropoliation University, currently Computer Science. 
 - I love deep learning and building full stack apps with react and typescript
-- In the past, I have interned as a Software Engineer, done research in Machine Learning, and founded my own AI startup (https://thia.tech)
+- In the past, I have interned as a Software Engineer, done research in Machine Learning, and even founded my own AI startup (https://thia.tech)
 
 
 ### 🏋🏽‍♂️ My hobbies:
