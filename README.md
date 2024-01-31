@@ -6,15 +6,15 @@
 
 
 ### Hey, I am Ritesh    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" />
-- I am an upcoming graduate (May 2023) at Toronto Metropoliation University, currently Computer Science. 
-- I love deep learning and building full stack apps with react and typescript
-- In the past, I have interned as a Software Engineer, done research in Machine Learning
+- I am Software Engineer, currently working @ BlueCat. 
+- I love deep learning and building full-stack apps
+- And I most definitely DON'T have imposter syndrome 
 
 
 ### 🏋🏽‍♂️ My hobbies:
 - Olympic weightlifting
 - Checkmating (chess)
-- Listening to J-Pop
+- Reading!!!
 
 
 
