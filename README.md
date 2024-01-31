@@ -1,7 +1,6 @@
 
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ![version :31.Jul.2022](https://img.shields.io/badge/version-20.Dec.2022-informational)
-![views](https://visitor-badge.glitch.me/badge?page_id=riteshahlawat.profile)
 <a href="https://www.linkedin.com/in/ritesh-ahlawat/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" height=20></a>
 
 
