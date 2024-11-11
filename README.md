@@ -5,10 +5,7 @@
 
 
 ### Hey, I am Ritesh    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" />
-- I am Software Engineer, currently working @ BlueCat. 
-- I love deep learning and building full-stack apps
-- And I most definitely DON'T have imposter syndrome 
-
+- SWE @ Athelas. Mountain View. 
 
 ### 🏋🏽‍♂️ My hobbies:
 - Olympic weightlifting
