@@ -5,7 +5,7 @@
 
 
 ### Hey, I am Ritesh    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" />
-- SWE @ Athelas. Mountain View. 
+- SWE @ Commure. Mountain View. 
 
 ### 🏋🏽‍♂️ My hobbies:
 - Olympic weightlifting
